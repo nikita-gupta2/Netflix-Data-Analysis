@@ -66,8 +66,6 @@ Netflix-Data-Analysis/
 2. Dropped rows with invalid `date_added`  
 3. Extracted year from `date_added`  
 4. Split genres from `listed_in`  
-5. Exported cleaned dataset as:  
-   ✔ `cleaned_netflix_data.csv`
 
 ---
 
